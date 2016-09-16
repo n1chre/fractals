@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     glutInitDisplayMode(GLUT_DOUBLE);
     glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
     glutInitWindowPosition(400, 200);
-    glutCreateWindow("Lab 11 fh47758");
+    glutCreateWindow("Mandelbrot franctals");
     glutReshapeFunc(reshape);
     glutDisplayFunc(display);
     glutKeyboardFunc(keyPressed);

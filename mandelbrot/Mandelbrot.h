@@ -66,4 +66,4 @@ public:
 };
 
 
-#endif //LAB11_MANDELBROT_H
+#endif
