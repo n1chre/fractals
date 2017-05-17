@@ -1,9 +1,6 @@
-# Fast rank/select operations
+# Three different fractal implementations
 
 [![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://img.shields.io/packagist/l/doctrine/orm.svg)
-
-## Implementation
-Three different fractal implementations
 
 ## Images
 
